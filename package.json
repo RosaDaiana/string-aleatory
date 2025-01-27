@@ -1,0 +1,23 @@
+{
+  "name": "string-aleatory",
+  "version": "1.0.0",
+  "description": "Package for npm that generate aleatory strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosaDaiana/string-aleatory.git"
+  },
+  "author": "daiana cabrel <daianacabrel376@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RosaDaiana/string-aleatory/issues"
+  },
+  "homepage": "https://github.com/RosaDaiana/string-aleatory#readme",
+  "bin": {
+    "string-aleatory": "bin/global.js"
+  },
+  "preferGlobal": true
+}
